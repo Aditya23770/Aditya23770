@@ -1,14 +1,28 @@
-👋 Hi, I'm Aditya Raj Pandey
-🎓 Engineering Physics Undergraduate at IIT Delhi
-🔍 Passionate about AI, Machine Learning, and Data Science
+# 👋 Hi, I'm Aditya Raj Pandey
 
-🌱 I’m currently exploring Retrieval-Augmented Generation (RAG) systems and distributed AI models, focusing on deep learning, predictive analytics, and scalable data pipelines.
+💻 **AI & Backend Developer | Data Science Enthusiast**  
+📍 Based in India
 
-💻 I’m skilled in Python, TensorFlow, Scikit-learn, GPT-4, FAISS, LangChain, and more. My expertise spans web scraping, NLP, and machine learning algorithms.
+### 🚀 What I Do
+- Building scalable AI applications with **Python & Machine Learning**
+- Developing **RAG systems, NLP models, and data-driven applications**  
+- Automating workflows with **Python, SQL, and Web Scraping**
 
-🤝 I’m looking to collaborate on projects involving AI infrastructure, NLP applications, and data engineering.
+### 🔧 Tech Stack  
+`Python` `SQL` `TensorFlow` `scikit-learn` `FAISS` `LangChain` `GPT-4` `Hugging Face` `BeautifulSoup` `Streamlit`
 
-📫 How to reach me: adityarajpandey@example.com
+### 🌱 Currently Learning  
+- Advanced **LLM fine-tuning and inference optimization**  
+- Scalable **retrieval-augmented generation (RAG) architectures**  
 
-😄 Pronouns: He/Him
-⚡ Fun fact: I love building AI systems that solve real-world problems efficiently!
+### 📜 Notable Projects  
+- **RAG System for Document Analysis**: Implemented **FAISS, GPT-4, Sentence Transformers** for accurate information retrieval.  
+- **Fake News Detection Using Naive Bayes**: Achieved **80% accuracy** using n-gram-based text classification.  
+- **Movie Box Office Data Scraper**: Scraped and analyzed **3,000+ movies' financial performance**.  
+- **Handwritten Digit Recognition (CNN)**: Built a **98% accurate** classification model using MNIST dataset.  
+
+### 📫 Let's Connect  
+📧 adityarajpandey770@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-raj-pandey-815248230/)  
+
+⚡ **Fun fact:** I built a web scrapper for extracting daily box offcie collections of movies!
