@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Raj Pandey
 
-💻 ** Data Science & Machine Learning | NLP & AI Enthusiast | Python, SQL | Problem Solver**  
+💻💻 **AI & Backend Developer | Data Science Enthusiast**   
 📍 Based in India
 
 ### 🚀 What I Do
